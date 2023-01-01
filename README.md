@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Resource Group
 - Create Windows 10 Virtual Machine with 2-4 Virtual CPUs
+- Allow VM to create Virtual Network and Subnet
 
 <h2>Installation Steps</h2>
 <p>
