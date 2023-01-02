@@ -88,8 +88,13 @@ Go to IIS, sites -> Default -> osTicket. Enable php_imap.dll, php-intl.dll, and 
 
 
 <p align="center">
-Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php:
+Select C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php: 
 <img src="https://imgur.com/DFLIL2R.png" height="80%" width="80%" alt="osTicket Steps"/>
+</p>
+</br>
+
+<p align="center">
+Rename it to C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 <img src="https://imgur.com/CxhxuKN.png" height="80%" width="80%" alt="osTicket Steps"/>
 </p>
 </br>
@@ -107,8 +112,10 @@ Download and install HeidiSQL:
 </p>
 </br>
 
-<p align="center">
+<p align="center"> 
 Create a new session:
+</p>
+<p align="center">
 <img src="https://imgur.com/joi73Dt.png" height="80%" width="80%" alt="osTicket Steps"/>
 </p>
 </br>
@@ -121,6 +128,8 @@ Create a database named "osTicket":
  
 <p align="center">
 Click "Install Now!" :
+</p>
+<p align="center">
 <img src="https://imgur.com/p8aBCwg.png" height="80%" width="80%" alt="osTicket Steps"/>
 </p>
 </br>
